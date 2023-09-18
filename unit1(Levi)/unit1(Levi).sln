@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unit1(Levi)", "unit1(Levi)\unit1(Levi).csproj", "{38E397CF-5C0D-4DC2-B684-E8FB0F142DC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38E397CF-5C0D-4DC2-B684-E8FB0F142DC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38E397CF-5C0D-4DC2-B684-E8FB0F142DC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38E397CF-5C0D-4DC2-B684-E8FB0F142DC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38E397CF-5C0D-4DC2-B684-E8FB0F142DC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40544C61-DC19-40C2-B32F-A1FA092FA94E}
+	EndGlobalSection
+EndGlobal

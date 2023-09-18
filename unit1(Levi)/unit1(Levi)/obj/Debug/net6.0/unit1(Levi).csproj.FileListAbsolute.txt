@@ -1,0 +1,8 @@
+C:\Users\levi.schoonhoven\source\repos\unit1(Levi)\unit1(Levi)\obj\Debug\net6.0\unit1(Levi).csproj.AssemblyReference.cache
+C:\Users\levi.schoonhoven\source\repos\unit1(Levi)\unit1(Levi)\obj\Debug\net6.0\unit1(Levi).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\levi.schoonhoven\source\repos\unit1(Levi)\unit1(Levi)\obj\Debug\net6.0\unit1(Levi).AssemblyInfoInputs.cache
+C:\Users\levi.schoonhoven\source\repos\unit1(Levi)\unit1(Levi)\obj\Debug\net6.0\unit1(Levi).AssemblyInfo.cs
+C:\Users\levi.schoonhoven\source\repos\unit1(Levi)\unit1(Levi)\obj\Debug\net6.0\unit1(Levi).csproj.CoreCompileInputs.cache
+C:\Users\levi.schoonhoven\source\repos\unit1(Levi)\unit1(Levi)\obj\Debug\net6.0\unit1(Levi).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\levi.schoonhoven\source\repos\unit1(Levi)\unit1(Levi)\obj\Debug\net6.0\unit1(Levi).RazorAssemblyInfo.cache
+C:\Users\levi.schoonhoven\source\repos\unit1(Levi)\unit1(Levi)\obj\Debug\net6.0\unit1(Levi).RazorAssemblyInfo.cs
